@@ -1,7 +1,7 @@
 def greet(name: str) -> str:
     return f"Здравей, {name}! 👋"
 
-
+# this is function for adding two numbers
 def sum_numbers(a: float, b: float) -> float:
     return a + b
 
