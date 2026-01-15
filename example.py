@@ -5,7 +5,7 @@ def greet(name: str) -> str:
 def sum_numbers(a: float, b: float) -> float:
     return a + b
 
-
+#creating conflict here 2
 def main():
     print("=== Примерна Python програма ===")
     
