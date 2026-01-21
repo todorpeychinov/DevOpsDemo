@@ -7,6 +7,7 @@ def sum_numbers(a: float, b: float) -> float:
 
 
 def main():
+    #comment
     print("=== Примерна Python програма ===")
     
     name = input("Как се казваш? ")
