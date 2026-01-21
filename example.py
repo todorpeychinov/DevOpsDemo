@@ -9,6 +9,9 @@ def sum_numbers(a: float, b: float) -> float:
 #creating conflict here
 #creating conflict here 2
 def main():
+    #test
+    #test
+    #test
     print("=== Примерна Python програма ===")
     
     name = input("Как се казваш? ")
